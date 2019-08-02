@@ -73,14 +73,14 @@ Whether you are self-learning front-end or familiar with some of the front-end t
 - [You-Dont-Know-JS \[英\]] (https://github.com/getify/You-Dont-Know-JS)
 - JavaScript basic operating mechanism:
     - [JS Engine, Runtime and Call Stack Overview\[英\]] (https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-    - [V8 Engine Introduction\[英\]] (https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized- Code-ac089e62b12e)
-    - [Memory Management and 4 Common Leaks [English]] (https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks -3f28b94cfbec)
+    - [V8 Engine Introduction\[英\]] (https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-Code-ac089e62b12e)
+    - [Memory Management and 4 Common Leaks [English]] (https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - Event Loop (There will always be an Event Loop... in the interview):
     - [Exploring JavaScript Asynchronous and Browser Update Rendering Opportunities from the Event Loop Specification] (https://github.com/aooy/blog/issues/5)
     - [Asynchronous Event Loop \[英\]] (https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to -better-coding-with-2f077c4438b5)
     - [Event Loop, Timers and `process.nextTick()` \[English\] in NodeJS (https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
     - [Tasks, Microtasks, Queues and Schedules \[English\]] (https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
-- [Web Workers and its 5 common usage scenarios\[英\]] (https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases- When-you-should-use-them-a547c0757f6a)
+- [Web Workers and its 5 common usage scenarios\[英\]] (https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-When-you-should-use-them-a547c0757f6a)
 - [How to avoid async/await hell\[英\]] (https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 - ["Return to Hell" solution summary] (https://www.jianshu.com/p/bc7b8d542dcd)
 
@@ -172,7 +172,7 @@ It’s highly recommended to read through the articles in the [Performance Optim
 
 ### 3.2. Runtime performance
 
-- [Avoid large, complex layouts and layout jitters\[英\]] (https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing? Hl=zh-cn#avoid-forced-synchronous-layouts)
+- [Avoid large, complex layouts and layout jitters\[英\]] (https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing?Hl=zh-cn#avoid-forced-synchronous-layouts)
 - [What causes a forced sync layout (reflow)? \[英\]](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [How to diagnose forced sync layout\[英\]] (https://developers.google.com/web/tools/chrome-devtools/rendering-tools/forced-synchronous-layouts?hl=en)
 - [Wireless Performance Optimization: Composite] (http://taobaofed.org/blog/2016/04/25/performance-composite/)
