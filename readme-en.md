@@ -8,7 +8,7 @@ Whether you are self-learning front-end or familiar with some of the front-end t
 
 <!-- TOC -->
 
-- [front-end technology list] (#-front-end-technology-list)
+- [front-end technology list](#-front-end-technology-list)
     - [0. Annual Report](#0-Annual-Report)
     - [1. Basics](#1-Basics)
         - [1.1. JavaScript](#11-javascript)
