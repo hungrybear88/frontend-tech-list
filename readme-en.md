@@ -107,7 +107,7 @@ Whether you are self-learning front-end or familiar with some of the front-end t
     - [How does compositor improve interactive performance? ](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 - [Complete page lifecycle API introduction\[英\]] (https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
 - [Four new observers: Intersection / Mutation / Resize / Performance (Observer)] (https://www.zeolearn.com/magazine/different-types-of-observers-supported-by-modern-browsers)
-- [Rendering engine working mode and optimization suggestions\[英\]] (https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance- 7b95553baeda)
+- [Rendering engine working mode and optimization suggestions\[英\]] (https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
 - [Browser Kernel Rendering: Rebuild Engine] (https://juejin.im/post/5bbaa7da6fb9a05d3761aafe)
 - [Cross-domain solution summary] (https://www.jianshu.com/p/438183ddcea8)
 
